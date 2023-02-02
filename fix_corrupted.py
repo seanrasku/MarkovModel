@@ -1,4 +1,3 @@
-#import stdio
 import sys
 from markov_model import MarkovModel
 
